@@ -1,0 +1,15 @@
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\bin\Debug\DAT154 Oblig 2 Part 1.exe.config
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\bin\Debug\DAT154 Oblig 2 Part 1.exe
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\bin\Debug\DAT154 Oblig 2 Part 1.pdb
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.csproj.AssemblyReference.cache
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.csproj.SuggestedBindingRedirects.cache
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.csproj.CoreCompileInputs.cache
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.exe
+D:\SDK\DAT154Oblig2-master\DAT154Oblig2-master\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.pdb
+C:\Users\haako\Downloads\DAT154Oblig2-1\DAT154Oblig2\DAT154Oblig2\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\bin\Debug\DAT154 Oblig 2 Part 1.exe.config
+C:\Users\haako\Downloads\DAT154Oblig2-1\DAT154Oblig2\DAT154Oblig2\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\bin\Debug\DAT154 Oblig 2 Part 1.exe
+C:\Users\haako\Downloads\DAT154Oblig2-1\DAT154Oblig2\DAT154Oblig2\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\bin\Debug\DAT154 Oblig 2 Part 1.pdb
+C:\Users\haako\Downloads\DAT154Oblig2-1\DAT154Oblig2\DAT154Oblig2\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.csproj.AssemblyReference.cache
+C:\Users\haako\Downloads\DAT154Oblig2-1\DAT154Oblig2\DAT154Oblig2\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.csproj.CoreCompileInputs.cache
+C:\Users\haako\Downloads\DAT154Oblig2-1\DAT154Oblig2\DAT154Oblig2\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.exe
+C:\Users\haako\Downloads\DAT154Oblig2-1\DAT154Oblig2\DAT154Oblig2\DAT154 Oblig 2\DAT154 Oblig 2 Part 1\obj\Debug\DAT154 Oblig 2 Part 1.pdb
